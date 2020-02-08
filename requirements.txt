@@ -1,7 +1,2 @@
 django
 djangorestframework
-psycopg2
-Pillow
-
-flake8
-black

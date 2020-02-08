@@ -57,6 +57,9 @@
 ```
 
 ```sh
+ pip install pipenv
  brew install pipenv
  sudo apt install pipenv
+
+ docker-compose run app sh -c "django-admin startproject app ."
 ```
